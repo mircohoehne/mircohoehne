@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mircohoehne&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mircohoehne&layout=compact&theme=radical)
+[![Mirco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mircohoehne)](https://github.com/mircohoehne/github-readme-stats)
+
+[//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=mircohoehne&layout=compact&theme=radical&#41;)
 
 
 <!--
