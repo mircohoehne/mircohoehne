@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Stack
 
-**💡 Languages:** Python, SQL, LaTeX  
+**💡 Languages:** Python, PyTorch, SQL, LaTeX  
 **📊 ML & AI:** PyTorch, Scikit-Learn, MMDetection  
 **🗄 Databases:** PostgreSQL, Pandas  
 **🛠 Tools & Platforms:** Git, Linux, IBM LSF
