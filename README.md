@@ -60,7 +60,6 @@
 
 ## 📬 Let's Connect!
 
-📧 **Email:** mirco.hoehne@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mircohoehne/)  
 
 🚀 *Looking for a Data Scientist or ML/AI Engineer? Let's chat!*  
