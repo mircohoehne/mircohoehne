@@ -3,7 +3,7 @@
 **Machine Learning Engineer | Data Scientist | AI Enthusiast**  
 🚀 Passionate about leveraging AI, Big Data, and Machine Learning to create impactful solutions.  
 🎯 Experienced in Reinforcement Learning, Object Detection, and Data Science in banking and automotive R&D.  
-🔍 Currently exploring NLP, document processing, and scalable ML solutions.  
+🔍 Currently exploring scalable ML solutions and MLOps.  
 
 ---
 
