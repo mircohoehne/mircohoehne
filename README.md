@@ -9,10 +9,10 @@
 
 ## 🔧 Tech Stack
 
-**💡 Languages:** Python, PyTorch, SQL, LaTeX  
+**💡 Languages:** Python, PyTorch, SQL
 **📊 ML & AI:** PyTorch, Scikit-Learn, MMDetection  
 **🗄 Databases:** PostgreSQL, Pandas  
-**🛠 Tools & Platforms:** Git, Linux, IBM LSF
+**🛠 Tools & Platforms:** Git, Linux, IBM LSF, LaTeX
 
 [//]: # (---)
 
