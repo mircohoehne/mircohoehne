@@ -27,10 +27,10 @@ If you're a hiring manager you may want to look at my [last project](https://git
 
 #
 
-![Mircos most used Languages](https://github-readme-stats-mircohoehnes-projects.vercel.app/api/top-langs/?username=mircohoehne&hide=jupyter%20notebook,html,css&layout=donut)
+![Mircos most used Languages](https://github-readme-stats-mircohoehnes-projects.vercel.app/api/top-langs/?username=mircohoehne&hide=jupyter%20notebook,html,css&layout=donut&theme=gruvbox)
 
 
-![Mirco's GitHub stats](https://github-readme-stats-mircohoehnes-projects.vercel.app/api?username=mircohoehne&show_icons=true&theme=gruvbox)
+![Mirco's GitHub stats](https://github-readme-stats-mircohoehnes-projects.vercel.app/api?username=mircohoehne&show_icons=true&theme=gruvbox&hide_rank=True)
 
 <details>
   <summary><h3>Mirco's Coding Journey</h3></summary>
