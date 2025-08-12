@@ -11,12 +11,12 @@ If you're a hiring manager you may want to look at my [last project](https://git
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Polars](https://img.shields.io/badge/Polars-%?style=for-the-badge&logo=polars)
+![Polars](https://img.shields.io/badge/Polars-_?style=for-the-badge&logo=Polars)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%?style=for-the-badge&logo=mlflow&link=https%3A%2F%2Fmlflow.org%2Fdocs%2Flatest%2F)
+![MLflow](https://img.shields.io/badge/MLflow-_?style=for-the-badge&logo=mlflow&link=https%3A%2F%2Fmlflow.org%2Fdocs%2Flatest%2F)
 ![Prefect](https://img.shields.io/badge/Prefect-000000?style=for-the-badge&logo=prefect&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
@@ -30,8 +30,10 @@ If you're a hiring manager you may want to look at my [last project](https://git
 <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:stretch;">
   <img src="https://github-readme-stats-mircohoehnes-projects.vercel.app/api/top-langs/?username=mircohoehne&hide=jupyter%20notebook,html,css&layout=compact&theme=gruvbox"
        style="height:170px; display:block;" />
-  <img src="https://github-readme-stats-mircohoehnes-projects.vercel.app/api?username=mircohoehne&show_icons=true&theme=gruvbox&hide_rank=true"
+  
+  <!-- <img src="https://github-readme-stats-mircohoehnes-projects.vercel.app/api?username=mircohoehne&show_icons=true&theme=gruvbox&hide_rank=true"
        style="height:170px; display:block;" />
+  -->
 </div>
 
 
