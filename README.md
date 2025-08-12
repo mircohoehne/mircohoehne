@@ -19,7 +19,6 @@ If you're a hiring manager you may want to look at my [last project](https://git
 ![MLflow](https://img.shields.io/badge/MLflow-_?style=for-the-badge&logo=mlflow&link=https%3A%2F%2Fmlflow.org%2Fdocs%2Flatest%2F)
 ![Prefect](https://img.shields.io/badge/Prefect-000000?style=for-the-badge&logo=prefect&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=uv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
