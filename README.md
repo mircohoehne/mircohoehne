@@ -23,7 +23,7 @@ If you're a hiring manager you may want to look at my [last project](https://git
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=uv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-<img height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #
 
