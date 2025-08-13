@@ -38,9 +38,9 @@ If you're a hiring manager, check out my [latest project](https://github.com/mir
 #
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:stretch;">
-  <img src="https://github-readme-stats-mircohoehnes-projects.vercel.app/api/top-langs/?username=mircohoehne&hide=jupyter%20notebook,ht,css&layout=compact&theme=gruvbox"
+  <img src="https://github-readme-stats-mircohoehnes-projects.vercel.app/api/top-langs/?username=mircohoehne&hide=jupyter%20notebook,html,css&layout=compact&theme=tokyonight"
        style="height:170px; display:block;" />
-  <img src="https://github-readme-stats-mircohoehnes-projects.vercel.app/api?username=mircohoehne&show_icons=true&theme=gruvbox&hide_rank=true"
+  <img src="https://github-readme-stats-mircohoehnes-projects.vercel.app/api?username=mircohoehne&show_icons=true&theme=tokyonight&hide_rank=true"
        style="height:170px; display:block;" />
 </div>
 
