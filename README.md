@@ -1,6 +1,5 @@
 # Mirco Höhne
-
-## Machine Learning Engineering · Data Science
+### Machine Learning Engineering · Data Science
 
 Problem solver and builder with a background in Industrial Engineering.  
 Practical experience in Machine Learning research, Reinforcement Learning for financial markets, and developing end-to-end ML systems.
