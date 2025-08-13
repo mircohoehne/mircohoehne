@@ -29,6 +29,7 @@ If you're a hiring manager, check out my [latest project](https://github.com/mir
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![uv](https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=uv&logoColor=white)](https://docs.astral.sh/uv/)
 [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
+[![fastapi](https://img.shields.io/badge/fastapi-_?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)](https://fastapi.tiangolo.com/)
 
 
 
