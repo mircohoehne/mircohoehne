@@ -33,7 +33,7 @@ If you're a hiring manager, check out my [latest project](https://github.com/mir
 
 
 ## 📄 Publications
-**First Author** - *Enhancing Data Efficiency for Training Object Detectors*, presented at IEEE Intelligent Vehicles Symposium 2025, to be published in IEEE Xplore. You can check if it's already available at https://ieee-itss.org/conf/iv/.
+**First Author** - *Enhancing Data Efficiency for Training Object Detectors*, presented at IEEE Intelligent Vehicles Symposium 2025 ([Link](https://ieeexplore.ieee.org/document/11097567)).
 
 #
 
